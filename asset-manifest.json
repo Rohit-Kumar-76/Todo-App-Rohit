@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo-App-Rohit/static/css/main.e6c13ad2.css",
+    "main.js": "/Todo-App-Rohit/static/js/main.a4ec7729.js",
+    "static/js/453.48cad604.chunk.js": "/Todo-App-Rohit/static/js/453.48cad604.chunk.js",
+    "index.html": "/Todo-App-Rohit/index.html",
+    "main.e6c13ad2.css.map": "/Todo-App-Rohit/static/css/main.e6c13ad2.css.map",
+    "main.a4ec7729.js.map": "/Todo-App-Rohit/static/js/main.a4ec7729.js.map",
+    "453.48cad604.chunk.js.map": "/Todo-App-Rohit/static/js/453.48cad604.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a4ec7729.js"
+  ]
+}
