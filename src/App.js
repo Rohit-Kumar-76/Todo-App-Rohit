@@ -52,13 +52,14 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={
+        <Route path="/" element={
           <>
             <AddTodo addTodo={addTodo} />
             <Todos todos={todos} onDelete={onDelete} />
             <Footer />
           </>
         } />
+
         <Route exact path="/about" element={<About />} />
       </Routes>
     </Router>
